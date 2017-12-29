@@ -1,0 +1,22 @@
+{
+  "name": "data-struct-algo-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeyaza/data-structures-and-algos-in-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeyaza/data-structures-and-algos-in-js/issues"
+  },
+  "homepage": "https://github.com/joeyaza/data-structures-and-algos-in-js#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
