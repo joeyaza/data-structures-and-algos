@@ -18,6 +18,7 @@ class Heap {
 
         this.currentPosition = this.currentPosition + 1;
         this.heap[this.currentPosition] = item;
+        console.log("current>>>", this.currentPosition);
         this.fixUp(this.currentPosition);
 
     }
